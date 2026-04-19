@@ -53,3 +53,21 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# C++
+*.o
+*.out
+*.exe
+*.obj
+
+# Build directories
+build/
+bin/
+
+# VS / IDE
+.vs/
+*.vcxproj*
+*.sln
+
+# Logs
+*.log
